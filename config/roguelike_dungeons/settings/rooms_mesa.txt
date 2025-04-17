@@ -10,7 +10,7 @@
                 		{"mode": "secret", "type": "MUSIC"},
                 		{"mode": "single", "type": "AVIDYA"},
                 		{"mode": "single", "type": "CRYPT"},
-				{"mode": "random", "type": "BRICK", "weight" : 35},
+				{"mode": "random", "type": "BRICK", "weight" : 42},
 				{"mode": "random", "type": "CORNER", "weight" : 15},
 				{"mode": "random", "type": "ETHO", "weight" : 3},
 				{"mode": "random", "type": "LIBRARY", "weight" : 12},
