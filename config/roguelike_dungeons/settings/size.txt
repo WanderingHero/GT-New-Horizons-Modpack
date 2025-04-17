@@ -24,7 +24,7 @@
 		"4" : {
 			"range" : 100,
 			"scatter" : 15,
-			"numRooms" : 20
+			"numRooms" : 16
 		}
 	}
 }
