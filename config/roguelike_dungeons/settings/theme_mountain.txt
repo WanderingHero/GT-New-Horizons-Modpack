@@ -8,7 +8,7 @@
         },
         "1": {
             "theme": {
-                "base": "QUARTZ"
+                "base": "ENIKO2"
             }
         },
         "2": {
