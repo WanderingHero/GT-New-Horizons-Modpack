@@ -23,7 +23,7 @@
 				{"mode": "single", "type": "MESS"},
 				{"mode": "single", "type": "CREEPER"},
                 		{"mode": "single", "type": "PIT"},
-                		{"mode": "secret", "type": "MUSIC"},
+                		{"mode": "secret", "type": "SMITH"},
                 		{"mode": "single", "type": "MUSIC"},
 				{"mode": "random", "type": "BRICK", "weight" : 35},
 				{"mode": "random", "type": "CORNER", "weight" : 20},
