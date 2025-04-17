@@ -4,7 +4,7 @@
 		"0" : {
 			"range" : 100,
 			"scatter" : 18,
-			"numRooms" : 25
+			"numRooms" : 17
 		},
 		"1" : {
 			"range" : 140,
