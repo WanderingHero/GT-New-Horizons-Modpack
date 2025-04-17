@@ -24,7 +24,7 @@
 				{"mode": "single", "type": "CREEPER"},
                 		{"mode": "single", "type": "PIT"},
                 		{"mode": "secret", "type": "MUSIC"},
-                		{"mode": "single", "type": "ENCHANT"},
+                		{"mode": "single", "type": "MUSIC"},
 				{"mode": "random", "type": "BRICK", "weight" : 35},
 				{"mode": "random", "type": "CORNER", "weight" : 20},
 				{"mode": "random", "type": "MUSIC", "weight" : 2},
