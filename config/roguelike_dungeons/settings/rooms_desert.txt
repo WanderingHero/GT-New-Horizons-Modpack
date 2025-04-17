@@ -11,8 +11,7 @@
 				{"mode": "random", "type": "PYRAMIDCORNER", "weight" : 15},
 				{"mode": "random", "type": "FIRE", "weight" : 4},
 				{"mode": "random", "type": "LIBRARY", "weight" : 2},
-				{"mode": "random", "type": "PYRAMIDTOMB", "weight" : 18},
-                		{"mode": "single", "type": "OBSIDIAN"}
+				{"mode": "random", "type": "PYRAMIDTOMB", "weight" : 18}
 			]
 		},
 		"1": {
