@@ -12,7 +12,7 @@
                 		{"mode": "single", "type": "CRYPT"},
 				{"mode": "random", "type": "BRICK", "weight" : 42},
 				{"mode": "random", "type": "CORNER", "weight" : 15},
-				{"mode": "random", "type": "ETHO", "weight" : 3},
+				{"mode": "random", "type": "TREETHO", "weight" : 3},
 				{"mode": "random", "type": "LIBRARY", "weight" : 12},
 				{"mode": "random", "type": "DARKHALL", "weight" : 2},
                 		{"mode": "secret", "type": "BEDROOM"}
