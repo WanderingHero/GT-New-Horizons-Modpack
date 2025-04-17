@@ -36,7 +36,7 @@
 		{"data": {"name": "BuildCraft|Factory:mover", "meta": 0}, "weight": 10},
 		{"data": {"name": "etfuturum:totem_of_undying", "meta": 0}, "weight": 10},
 		{"data": {"name": "IronChest:BlockIronChest", "meta": 2}, "weight": 10},
-		{"data": {"name": "gregtech:gt.metaitem.01", "meta": 32727}, "weight": 10},
+		{"data": {"name": "gregtech:gt.metaitem.01", "meta": 32727, "min": 16, "max": 20}, "weight": 10},
 		{"data": {"name": "TConstruct:materials", "meta": 8}, "weight": 10},
 		{"data": {"name": "malisisdoors:door_factory", "meta": 0}, "weight": 10},
 		{"data": {"name": "OpenBlocks:guide", "meta": 0}, "weight": 10},
