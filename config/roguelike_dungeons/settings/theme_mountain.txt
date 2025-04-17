@@ -16,7 +16,7 @@
                 "base": "ENIKO2"
             }
         },
-        "3": {
+        "4": {
             "theme": {
                 "base": "OAK",
 			"primary" : {
@@ -73,7 +73,7 @@
 				}
 
         },
-        "4": {
+        "3": {
             "theme": {
                 "base": "NETHER"
             }
